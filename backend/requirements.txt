@@ -3,3 +3,4 @@ sentence-transformers
 torch
 pandas
 gunicorn
+flask-cors
